@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nour-CS19.github.io/myyyyy/static/css/main.f7d3979a.css",
+    "main.js": "/Nour-CS19.github.io/myyyyy/static/js/main.f7ae9dc7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Nour-CS19.github.io/myyyyy/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Nour-CS19.github.io/myyyyy/index.html",
+    "main.f7d3979a.css.map": "/Nour-CS19.github.io/myyyyy/static/css/main.f7d3979a.css.map",
+    "main.f7ae9dc7.js.map": "/Nour-CS19.github.io/myyyyy/static/js/main.f7ae9dc7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Nour-CS19.github.io/myyyyy/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7d3979a.css",
+    "static/js/main.f7ae9dc7.js"
+  ]
+}
